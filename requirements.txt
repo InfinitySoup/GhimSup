@@ -1,0 +1,3 @@
+jinja2
+gdown
+beautifulsoup4
